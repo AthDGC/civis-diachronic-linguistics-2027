@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://athdgc.github.io/civis-diachronic-linguistics-2027/sitemap.xml
